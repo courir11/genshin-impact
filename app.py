@@ -4,7 +4,7 @@ import time
 import requests
 
 headers={
-    "Authorization" : "Token r8_1v8CjNUo1NGM14QQMEziQ7MF1aGUl8N31ISLS,
+    "Authorization" : "Token r8_1v8CjNUo1NGM14QQMEziQ7MF1aGUl8N31ISLS",
     "Content-Type" : "application/json"
 }
 
